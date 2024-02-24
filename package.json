@@ -1,0 +1,20 @@
+{
+  "name": "photography",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server db.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "json-server": "^1.0.0-alpha.23",
+    "nodemon": "^3.0.3"
+  }
+}
