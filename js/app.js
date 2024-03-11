@@ -18,7 +18,7 @@ getData()
 
 
 async function sendForm (event) {
-    event.preventDefault()
+    // event.preventDefault()
    
    const formData =  new FormData(form)
 //    const sendFormData = Object.fromEntries(formData)
